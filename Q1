@@ -1,5 +1,6 @@
 Difference-between-document-window-objects
-Write a blog on the Difference between document & window objects
+
+Document & window objects
 
 In web development, both the document and window objects are fundamental
 to the creation and manipulation of a webpage. While they are often used 
